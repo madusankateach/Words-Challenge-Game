@@ -1,7 +1,5 @@
-{
-    "time": 600,
-    "words":[
- { "word": "disease", "hint": "Abnormal condition that adversely affects the structure or function of an organism", "masked": "d_s_a_e" },
+[
+  { "word": "disease", "hint": "Abnormal condition that adversely affects the structure or function of an organism", "masked": "d_s_a_e" },
   { "word": "etiology", "hint": "Cause of a disease", "masked": "e_i_l_g_" },
   { "word": "pathogenesis", "hint": "Mechanisms by which a disease develops, progresses, and either persists or is resolved", "masked": "p_t_o_e_e_i_" },
   { "word": "diagnosis", "hint": "Act of identifying a disease from its signs and symptoms", "masked": "d_a_n_s_s" },
@@ -26,6 +24,5 @@
   { "word": "phospholipases", "hint": "Cause cell membrane damage", "masked": "p_o_p_o_i_a_e_" },
   { "word": "proteases", "hint": "Breakdown both membrane and cytoskeletal proteins", "masked": "p_o_e_s_" },
   { "word": "endonucleases", "hint": "DNA and chromatin fragmentation", "masked": "e_d_n_c_e_s_s" },
-  { "word": "oxidative stress", "hint": "When free radical amount is increased, it’s called ", "masked": "o_i_a_i_e s_r_s_" }
+  { "word": "oxidative stress", "hint": "When free radical amount is increased, it’s called oxidative stress", "masked": "o_i_a_i_e s_r_s_" }
 ]
-}
